@@ -1,0 +1,347 @@
+
+==================================
+Running experiment with: num_samples=5000, max_features=15, stopwords=True, lime_num_samples=300, shots=100
+Loading cached logistic from cached_classifier_ns5000_mf15_swTrue_logistic_classifier_seed42.pkl
+text sample in iran, women are not permitted to attend men's sporting events, apparently to "protect" them from all the cursing and foul language they might hear emanating from the male fans (so since men can't restrain or behave themselves, women are forced to suffer. go figure.). "offside" tells the tale of a half dozen or so young women who, dressed like men, attempt to sneak into the high-stakes match between iran and bahrain that, in 2005, qualified iran to go to the world cup (the movie was actually filmed in large part during that game)."offside" is a slice-of-life comedy that will remind you of all those great humanistic films ("the shop on main street," "loves of a blonde," "closely watched trains" etc.) that flowed out of communist czechoslovakia as part of the "prague miracle" in the mid 1960's. as with many of those works, "offside" is more concerned with observing life than with devising any kind of elaborately contrived fictional narrative. indeed, it is the simplicity of the setup and the naturalism of the style that make the movie so effective.once their ruse is discovered, the girls are corralled into a small pen right outside the stadium where they can hear the raucous cheering emanating from the game inside. stuck where they are, all they can do is plead with the security guards to let them go in, guards who are basically bumbling, good-natured lads who are compelled to do their duty as a part of their compulsory military service. even most of the men going into the stadium don't seem particularly perturbed at the thought of these women being allowed in. still the prohibition persists. yet, how can one not be impressed by the very real courage and spunk displayed by these women as they go up against a system that continues to enforce such a ridiculously regressive and archaic restriction? and, yet, the purpose of these women is not to rally behind a cause or to make a "point." they are simply obsessed fans with a burning desire to watch a soccer game and, like all the men in the country, cheer on their team.it's hard to tell just how much of the dialogue is scripted and how much of it is extemporaneous, but, in either case, the actors, with their marvelously expressive faces, do a magnificent job making each moment seem utterly real and convincing. mohammad kheir-abadi and shayesteh irani are notable standouts in a uniformly excellent cast. the structure of the film is also very loose and freeform, as writer/director jafar panahi and co-writer shadmehr rastin focus for a few brief moments on one or two of the characters, then move smoothly and effortlessly onto others. with this documentary-type approach, we come to feel as if we are witnessing an actual event unfolding in "real time." very often, it's quite easy for us to forget we're actually watching a movie.it was a very smart move on the part of the filmmakers to include so much good-natured humor in the film (it's what the czech filmmakers did as well), the better to point up the utter absurdity of the situation and broaden the appeal of the film for audiences both domestic and foreign. "offside" is obviously a cry for justice, but it is one that is made all the more effective by its refusal to make of its story a heavy-breathing tragedy. instead, it realizes that nothing breaks down social barriers quite as efficiently as humor and an appeal to the audience's common humanity. and isn't that what true art is supposed to be all about? in its own quiet, understated way, "offside" is one of the great, under-appreciated gems of 2007. bin_features [0 1 1 1 1 1 1 1 1 0 0 1 1 1 1]
+Classical LIME Explanation:
+Word: great, Importance: 0.24500265776978317
+Word: don, Importance: 0.0814479395570641
+Word: story, Importance: 0.0766544857010628
+Word: make, Importance: 0.06756635574469715
+Word: movie, Importance: 0.06323962207328063
+Word: just, Importance: 0.061425445832929304
+Word: way, Importance: 0.033569296034125805
+Word: good, Importance: 0.029194115993279108
+Word: film, Importance: 0.012863628636843255
+Word: s, Importance: 0.006287153054701122
+Word: still, Importance: 0.0030938940432846196
+Word: naturalism, Importance: 0.0021083735866282275
+Word: large, Importance: 0.0020510521197071164
+Word: both, Importance: 0.0008140139264320287
+Word: stuck, Importance: 0.0007115343191611813
+
+Q-LIME Pi Explanation:
+Word: great, Importance: 0.2722915740908953
+Word: time, Importance: 0.26344564530757175
+Word: watch, Importance: 0.2261025516321904
+Word: people, Importance: 0.1934359805132062
+Word: make, Importance: 0.1690187949470514
+Word: film, Importance: 0.1656670492161827
+Word: story, Importance: 0.1445672661675902
+Word: don, Importance: 0.14420768330487832
+Word: bad, Importance: 0.13461882905930245
+Word: really, Importance: 0.12971643041071856
+Word: movie, Importance: 0.12138272673363992
+Word: just, Importance: 0.10120128428308994
+Word: way, Importance: 0.028129910049872198
+Word: like, Importance: 0.01748224076385818
+Word: good, Importance: 0.014648861957498038
+text sample joseph l. mankiewicz's sleuth didn't need a remake. it's a thoroughly well made film that stands up well to this day. however, given that the modern day remake machine is currently in full swing; i really can't say i'm surprised to see the film updated for modern audience. the plot remains identical to the original film and at its core we have the story of a young man, milo tindle, who goes off to see an older man, andrew wyke, to discuss a divorce as the younger man is having an affair with the older man's wife. from there, a game of cat and mouse ensues. its clear right from the outset that director kenneth branagh wanted to add a different touch to this film and he does so by way of the central location, which has been changed from the charming games-ridden country house of the original to a technical marvel kitted out with layers of security equipment. i'm glad that the director chose to make this change as nobody wants to see a remake that directly copies of the original; plus there's the fact that the location is well used and always nice to look at. unfortunately, however, the positive elements of sleuth 2007 end there.the original film was over two hours long, while this remake is only just a shade over eighty minutes. naturally, therefore, that means that this version has less about it; and unfortunately it's the characters that suffer. the plot is also rushed and we get into the first twist in the tale far too quickly and before we are given any chance to actually understand why and how these events can be taking place. the film does not build the characters, or the rapport between them, enough to make sure that their relationship makes sense. one major thing that has been changed about the older character is his obsession; in the original he was obsessed with games which turned out to be very important once the twists come into play. here he has some kind of security fetish that doesn't really mean anything by the end. kenneth branagh's handling of the film allows for a classy score but the class ends there. the original thrived on it, but this film is happy merely to soil itself with expletives on numerous, and mostly unwarranted, occasions; which cheapen the whole thing. the final twist in the tale is completely different to how it was in the original and ensures that the film boils down to a really hideous conclusion. after spending two hours with the original i understood, respected and liked both characters presented in the film - after eighty minutes of this, i hated them both. i do have some respect for branagh for not merely rolling out a carbon copy of the original film; but this is not a good adaptation of the great anthony shaffer play. bin_features [0 0 1 1 1 1 0 1 0 0 1 1 0 0 1]
+Classical LIME Explanation:
+Word: great, Importance: 0.22006371732788388
+Word: story, Importance: 0.06582177840484073
+Word: make, Importance: 0.05957399872053469
+Word: just, Importance: 0.057522846713550034
+Word: way, Importance: 0.030434968994599656
+Word: good, Importance: 0.026190192939932702
+Word: film, Importance: 0.009361338908955812
+Word: really, Importance: 0.0066243035513102
+Word: relationship, Importance: 0.003951756353358176
+Word: shaffer, Importance: 0.002610225304181408
+Word: of, Importance: 0.00226871141348291
+Word: t, Importance: 0.0021485443353424167
+Word: identical, Importance: 0.0018629766140595492
+Word: cat, Importance: 0.001722378067727604
+Word: hated, Importance: 0.0013861210201448358
+
+Q-LIME Pi Explanation:
+Word: story, Importance: 0.399302410097893
+Word: don, Importance: 0.3308710938229924
+Word: film, Importance: 0.29937294414660875
+Word: people, Importance: 0.22723042227780077
+Word: great, Importance: 0.19730608176600917
+Word: way, Importance: 0.19730608176600917
+Word: movie, Importance: 0.1892460494731626
+Word: make, Importance: 0.18316500412556025
+Word: watch, Importance: 0.17863106684219654
+Word: bad, Importance: 0.13325697488581656
+Word: really, Importance: 0.04433348201231624
+Word: time, Importance: 0.03786894391429407
+Word: like, Importance: 0.01430332363932696
+Word: just, Importance: 0.0072005186657586595
+Word: good, Importance: 0.0004318358401402822
+text sample brothers with psychokinetic powers (yes, really) duel not just for debra winger's affections but really over a secret from their childhood that left them at odds over their powers.there are surreal touches (the fire brigade that act like a singing greek chorus), but there is also humour and romance. the soundtrack is great similar to the way american werewolf in london used every great wolf song they could get ~ but with fire ~ and i don't think i'll ever forget dennis quaid (mmmmm dennis quaid), setting his own trailer a rockin' to 'she's a lady' ~ priceless ;)best line missing from the quotes section btw ~ 'once you've had a clown, you never go back!'i love this movie (i ordered the dvd from the us) and if the comments written by the kind of people who'd be happier with legally blond 3 don't put you off ~ give it a try :) bin_features [0 1 0 0 1 1 1 0 1 1 1 0 0 0 1]
+Classical LIME Explanation:
+Word: great, Importance: 0.24947954731749697
+Word: don, Importance: 0.0886794391233735
+Word: movie, Importance: 0.06702023454730911
+Word: just, Importance: 0.06517330582743383
+Word: way, Importance: 0.03301652487453104
+Word: really, Importance: 0.010129442566534114
+Word: clown, Importance: 0.003468967792861014
+Word: us, Importance: 0.0019469839315642739
+Word: winger, Importance: 0.0018452707666704543
+Word: brigade, Importance: 0.0016601522042341914
+Word: people, Importance: 0.0016201994277858585
+Word: brothers, Importance: 0.0015832604206302869
+Word: touches, Importance: 0.0013958458044356188
+Word: could, Importance: 0.0010583328489427773
+Word: try, Importance: 3.709090665941337e-05
+
+Q-LIME Pi Explanation:
+Word: really, Importance: 0.3144104240323224
+Word: watch, Importance: 0.24291652572794092
+Word: great, Importance: 0.22090068688461278
+Word: people, Importance: 0.19704712806119912
+Word: bad, Importance: 0.17932704334896377
+Word: like, Importance: 0.1523712622443335
+Word: just, Importance: 0.14434633407586744
+Word: time, Importance: 0.13266146435537984
+Word: movie, Importance: 0.12958505905520867
+Word: don, Importance: 0.1140564353938126
+Word: good, Importance: 0.10456203869864444
+Word: make, Importance: 0.10456203869864444
+Word: story, Importance: 0.07190926257863317
+Word: film, Importance: 0.048853068038389846
+Word: way, Importance: 0.03693003746076695
+text sample the bourne ultimatum (2007) review: after a thrilling set of two, we get the final installment. here's my take:the bourne ultimatum has it all. we have jason bourne(matt damon) on the coattails of the ones who know everything. he has been running for too long. this time, it ends.the bourne ultimatum has a great plot, awesome writing, fantastic direction, suspense, and some of the best action of the summer. matt damon delivers possibly his best performance to date. he has the conviction and swelling desire of the troubled assassin.there are some intelligent humor here and some fine suspense. the reactions to certain events will have you either laughing(in a good way) or cheering on. (or both) i heard a lot of intelligent laughter in the theater and lots of clapping. the audience was loving it.the bourne ultimatum delivers all in a nicely gift-wrapped package. all of the goods and then some. this is, in my opinion the best movie this summer.the last word: excellent conclusion. the best of the trilogy. this is how summer movie thrillers should be done. i love the bourne trilogy. bin_features [0 0 0 1 1 0 0 0 1 0 0 0 1 0 1]
+Classical LIME Explanation:
+Word: great, Importance: 0.223763185380827
+Word: movie, Importance: 0.05919116489883658
+Word: way, Importance: 0.02851630207092109
+Word: good, Importance: 0.025931946741711783
+Word: time, Importance: 0.010016686477133625
+Word: excellent, Importance: 0.0031759106893834658
+Word: how, Importance: 0.002666291390799771
+Word: we, Importance: 0.0023721299166408402
+Word: action, Importance: 0.0022049383594003403
+Word: know, Importance: 0.00187788218827252
+Word: on, Importance: 0.0018156332206200247
+Word: this, Importance: 0.0010854594596043387
+Word: fine, Importance: 0.00042842689273051894
+Word: lot, Importance: 0.0002179937403248683
+Word: bourne, Importance: 0.00012483428241702829
+
+Q-LIME Pi Explanation:
+Word: don, Importance: 0.28520393947333034
+Word: film, Importance: 0.272442610651628
+Word: way, Importance: 0.272442610651628
+Word: great, Importance: 0.2688032395379041
+Word: good, Importance: 0.23995133697924287
+Word: really, Importance: 0.2063334476484333
+Word: like, Importance: 0.19051862947231135
+Word: make, Importance: 0.19051862947231135
+Word: movie, Importance: 0.19051862947231135
+Word: bad, Importance: 0.06110942726450663
+Word: story, Importance: 0.023330499445089692
+Word: watch, Importance: 0.020535253652411378
+Word: time, Importance: 0.018325163073414807
+Word: people, Importance: 0.004849814616070702
+Word: just, Importance: 0.0034725327093837466
+text sample i am commenting on this miniseries from the perspective of someone who read the novel first. and from that perspective i can honestly say that while enjoyable, i can see why it hasn't been rebroadcast anytime recently. more specifically, this mini has some serious problems, such as:1) it is terribly miscast. the actors who played the younger generation were all 15 to 20 years older than the characters. ali mcgraw (45 at the time) was playing natalie jastrow who was supposed to be about 26. jan-michael vincent (39 at the time) was playing byron henry who was supposed to be about 22. the other henry children, and pamela tudsbury, were also played by actors way too old for characters who were supposed to be in their 20's.2) some of the acting was absolutely awful. ali mcgraw at times almost made this mini unwatchable. i have seen more convincing performances in high school plays. 3) the directing was poor. to be fair to ali mcgraw, the bad acting and character development were probably the directing. the portrayal of hitler was way overdone. his character came off looking and behaving more like a cartoon villain than the charismatic, sometimes charming, but always diabolical genius herman wouk painted him as in the novel. some of the other characters are done so stereotypically (berel jastrow) they do not gain the depth of character that wouk created for them.4) this mini is very dated. the hokey music, the pretentious narration (it sounded like a junior high school history film narration), and the entire prime-time soap opera feel of the mini made it almost comical at times. also, too often byron and natalie are costumed and made up to look like they are in 1979 rather than 1939.someone who watches this without the benefit of reading the novel first will probably not sit through it all, because it will come off more as a late 70's / early 80's "take myself too seriously" prime-time soap drama, rather than the television version of what is certainly a modern american classic.remakes of older movies and the like are sometimes poorly done, but this is probably one case where a creative and inspired director could make a very stunning, memorable, and critically acclaimed production. i don't ever see that happening since a remake would have to be just as long (15 hours) or longer to do it right, and given the short attention span of most of the current american viewing public, it wouldn't fly. bin_features [1 1 1 0 0 1 1 1 0 0 0 0 1 0 1]
+Classical LIME Explanation:
+Word: bad, Importance: 0.2441834307724275
+Word: don, Importance: 0.07774290207723229
+Word: make, Importance: 0.05293581872468915
+Word: just, Importance: 0.051347478489857545
+Word: way, Importance: 0.024603173382800114
+Word: playing, Importance: 0.006822896943823914
+Word: comical, Importance: 0.005986445303225908
+Word: fly, Importance: 0.005217496234860807
+Word: awful, Importance: 0.005141935831857716
+Word: long, Importance: 0.004599233326587289
+Word: so, Importance: 0.004540911561399312
+Word: charismatic, Importance: 0.004365494290955294
+Word: current, Importance: 0.003057148874880209
+Word: are, Importance: 0.0025177459406216405
+Word: without, Importance: 0.002414226126570922
+
+Q-LIME Pi Explanation:
+Word: don, Importance: 0.47218587229201475
+Word: just, Importance: 0.45990081816209644
+Word: watch, Importance: 0.3957276570384201
+Word: story, Importance: 0.3765177516065678
+Word: bad, Importance: 0.3729196054865857
+Word: way, Importance: 0.34501960193018416
+Word: good, Importance: 0.2648011788018723
+Word: film, Importance: 0.2566893057572543
+Word: movie, Importance: 0.1930654971529795
+Word: make, Importance: 0.10048654235746399
+Word: people, Importance: 0.07594650011475962
+Word: really, Importance: 0.07172482635671415
+Word: like, Importance: 0.050846435105913385
+Word: time, Importance: 0.02817093412001659
+Word: great, Importance: 0.018012563301877893
+text sample i can't say i'm all that experienced in misty mundae flicks having seen only a handful, but it's obvious that this was made on a shoestring, and while it might have been respectable that the filmmakers were able to make a tomb raider rip-off inside a garage, it isn't because it's completely obvious that this is what they were doing. the film only runs for forty five minutes, and this is definitely a good thing as there isn't nearly enough plot here to stretch it out for any longer. it has something to do with an evil nazi scientist (who looks about as evil as a porn star playing a nazi scientist ever could), a mummy, which is clearly a man wrapped up in toilet roll and misty - this film's version of tomb raider, who keeps her top on for much less time than angelina jolie did in the big budget version. i have to say that even in spite of its shortcomings, this film could have been better. it's got misty mundae for a start, and even better than that if you ask me is the fact that it also stars the even hotter darian caine. the pair gets to engage in all the lesbian sex that you would expect from a seduction cinema film and this is at the expense of the nonexistent plot, although that isn't really a bad thing. obviously, this is a rubbish film - but the fact that it's short is to its credit, and if you're after a bit of lesbian sex, you could do worse. bin_features [1 0 1 1 0 0 0 1 0 0 1 0 1 0 0]
+Classical LIME Explanation:
+Word: bad, Importance: 0.2884139547255748
+Word: make, Importance: 0.06958071098117376
+Word: good, Importance: 0.028169311745403828
+Word: film, Importance: 0.010403097433637237
+Word: time, Importance: 0.00891246299004344
+Word: really, Importance: 0.00783797860987872
+Word: been, Importance: 0.0038470455432676014
+Word: stars, Importance: 0.0026124653553001235
+Word: say, Importance: 0.0023106884028099785
+Word: darian, Importance: 0.0015912537783171273
+Word: runs, Importance: 0.0008374490359431566
+Word: which, Importance: 0.0008352273809356662
+Word: pair, Importance: 0.00063016281028149
+Word: have, Importance: 0.0003553155705960001
+Word: mundae, Importance: 0.0003366218084659363
+
+Q-LIME Pi Explanation:
+Word: film, Importance: 0.36735996434254514
+Word: make, Importance: 0.3582868755228804
+Word: great, Importance: 0.34386461497012377
+Word: bad, Importance: 0.33746660032445885
+Word: way, Importance: 0.28699388608910714
+Word: movie, Importance: 0.05483441020708538
+Word: watch, Importance: 0.05483441020708538
+Word: like, Importance: 0.04511433332964307
+Word: people, Importance: 0.04423349528260004
+Word: time, Importance: 0.042890075880189116
+Word: just, Importance: 0.040781612789054844
+Word: don, Importance: 0.03454697547485208
+Word: good, Importance: 0.02445199281718427
+Word: story, Importance: 0.02445199281718427
+Word: really, Importance: 0.017618467567339674
+text sample eddie murphy is one of the funniest comedians ever - probably the funniest. delirious is the best stand-up comedy i've ever seen and it is a must-have for anyone who loves a good laugh!! i've watched this movie hundreds of times and every time i see it - i still have side-splitting fun. this is definitely one for your video library. i guarantee that you will have to watch it several times in order to hear all the jokes because you will be laughing so much - that you will miss half of them! delirious is hilarious!although there are a lot of funny comedians out there - after watching this stand-up comedy, most of them will seem like second-class citizens. if you have never seen it - get it, watch it - and you will love it!! it will make you holler!!! :-) bin_features [0 0 0 1 0 0 1 1 1 0 0 0 1 1 0]
+Classical LIME Explanation:
+Word: make, Importance: 0.080452139355178
+Word: movie, Importance: 0.0761276548376225
+Word: good, Importance: 0.0325033587575873
+Word: time, Importance: 0.011991415815768722
+Word: watch, Importance: 0.01186714854182471
+Word: like, Importance: 0.0009084930311013894
+Word: to, Importance: 0.0007229689084065593
+Word: them, Importance: 0.0007139219149768849
+Word: times, Importance: 0.0006071642531958677
+Word: eddie, Importance: 0.00033993921257655785
+Word: video, Importance: 0.0002923955803803926
+Word: still, Importance: 0.0002884962099685474
+Word: because, Importance: 0.00027792121501392597
+Word: stand, Importance: 0.00020017405169465348
+Word: delirious, Importance: 0.00013411716846804545
+
+Q-LIME Pi Explanation:
+Word: make, Importance: 0.14995377701690266
+Word: don, Importance: 0.11655562038807793
+Word: great, Importance: 0.10401635473524035
+Word: like, Importance: 0.10401635473524035
+Word: time, Importance: 0.10401635473524035
+Word: film, Importance: 0.07960016086953264
+Word: just, Importance: 0.07960016086953264
+Word: really, Importance: 0.06685508820867653
+Word: story, Importance: 0.04993704372111146
+Word: way, Importance: 0.045306353065867444
+Word: watch, Importance: 0.03721149222869763
+Word: good, Importance: 0.032584690090627255
+Word: people, Importance: 0.024455494980296533
+Word: movie, Importance: 0.019838606674110137
+Word: bad, Importance: 0.012614608791820303
+text sample if i could say it was better than gymkata, i at least felt my money was not totally wasted.then i saw steven segal's on deadly ground.this movie should see a resurrection though on mst 3k. if santa claus conquers the martians could make tom servo's head explode, one wonders what mayhem this movie could cause.there is a very good reason why kurt thomas never had a movie career.the writers of this dreck should be forced to wear placards every day of their lives that say "bitch slap me! i was a writer on gymkata." bin_features [0 0 0 1 0 0 0 1 1 0 0 0 0 0 0]
+Classical LIME Explanation:
+Word: make, Importance: 0.08086078580240114
+Word: movie, Importance: 0.07632227406422329
+Word: good, Importance: 0.03206873574234914
+Word: then, Importance: 0.0008767808111441479
+Word: better, Importance: 0.0007487319849304107
+Word: placards, Importance: 0.0005050798687731991
+Word: kurt, Importance: 0.00040761566460368784
+Word: never, Importance: 0.000391551395827268
+Word: claus, Importance: 0.0003878126001575072
+Word: least, Importance: 0.00032471846940048744
+Word: slap, Importance: 0.0003081223555316207
+Word: should, Importance: 0.00020744482993489933
+Word: me, Importance: 0.0001562540788462143
+Word: tom, Importance: 0.00015263951006670262
+Word: the, Importance: 0.00013754541799462598
+
+Q-LIME Pi Explanation:
+Word: like, Importance: 0.16273819626458647
+Word: don, Importance: 0.1291203069337769
+Word: great, Importance: 0.1291203069337769
+Word: just, Importance: 0.1291203069337769
+Word: make, Importance: 0.08386770443968944
+Word: film, Importance: 0.07923783981685356
+Word: movie, Importance: 0.07923783981685356
+Word: story, Importance: 0.07923783981685356
+Word: people, Importance: 0.049559447178833094
+Word: watch, Importance: 0.049559447178833094
+Word: way, Importance: 0.0449425588726467
+Word: bad, Importance: 0.033173815509078164
+Word: good, Importance: 0.033173815509078164
+Word: really, Importance: 0.033173815509078164
+Word: time, Importance: 0.0
+text sample what a load of rubbish.. i can't even begin to describe how awful this film was. the rating it has here is really hard to believe.avoid... particularly if you enjoyed the first ginger snaps. the first one was well written, well directed, well executed.. a brilliant film with a fantastic aesthetic and atmosphere. the second one was 'alrite'- decent as a self-standing film, but clearly not up to the level of the first... the third is an insult to the series, period. i rate the films: 10, 6, 1. it's that bad.oh, and yes it really is set in the past, the sisters are still called ginger and b fitzgerald... all muddled in with some half-assed native american mythology. the sisters don't have any real story, or progression, or even a clear relationship... they're just trying to survive and be 'together forever'. that's about as deep as it gets.staggered that the girls agreed to be in this pile-of-shite, after reading the script.oh and another thing, staging of action was terrible- people appearing from nowhere regularly, like the girls turn around and there's an elaborate candle-lit setup with a mystic native american woman just sitting there, about to go into a speech. sets were terrible, couldn't get away from the fact that it was all obviously based in a set, which really didn't help. also, there was consistently snow outside the camp, but not a trace inside (..on the set).arrghh,,, so bad! i really was hoping it would be at least as good as the second one. bin_features [1 1 1 1 0 1 1 0 0 1 1 1 0 0 0]
+Classical LIME Explanation:
+Word: bad, Importance: 0.2815751298779034
+Word: don, Importance: 0.08373742064370247
+Word: story, Importance: 0.06727610505914283
+Word: just, Importance: 0.06138295423490015
+Word: good, Importance: 0.027913686505304895
+Word: film, Importance: 0.009041527625553969
+Word: really, Importance: 0.007121707850358697
+Word: second, Importance: 0.003595292515703277
+Word: oh, Importance: 0.0032837838777127746
+Word: on, Importance: 0.0024134478933852165
+Word: clearly, Importance: 0.0020853034533485845
+Word: were, Importance: 0.00207329432972521
+Word: here, Importance: 0.001607614304248394
+Word: relationship, Importance: 0.0007496005511565677
+Word: inside, Importance: 0.0007087063993978193
+
+Q-LIME Pi Explanation:
+Word: just, Importance: 0.45445675481262593
+Word: like, Importance: 0.3835832668510626
+Word: bad, Importance: 0.33938763884316825
+Word: way, Importance: 0.33618247092456166
+Word: story, Importance: 0.28286922754288013
+Word: film, Importance: 0.12633207719619524
+Word: movie, Importance: 0.12633207719619524
+Word: make, Importance: 0.03814989446586725
+Word: watch, Importance: 0.03107397298278977
+Word: don, Importance: 0.024297189423224813
+Word: good, Importance: 0.024297189423224813
+Word: time, Importance: 0.009122336852583651
+Word: great, Importance: 0.00818160065782711
+Word: people, Importance: 0.0013479558563677663
+Word: really, Importance: 0.0013479558563677663
+text sample ummm, please forgive me, but weren't more than half the characters missing? in the original novel, valjean is a man imprisoned for 19 years for stealing a loaf of bread and then attempting several times to escape. he breaks parole and is pursued relentlessly by the police inspector javert. along the way there are many characters that weren't in this version. some worth mentioning would be fantine, cosette, m & mme. thenardier, eponine, marius, gavroche, and enjolras. the only character with the same name is javert. i was confused and frustrated throughout the whole movie, trying to see how it was in any way connected to victor hugo's epic novel. bin_features [0 0 0 0 0 0 0 0 1 0 0 0 0 0 1]
+Classical LIME Explanation:
+Word: movie, Importance: 0.07628894862480468
+Word: way, Importance: 0.03639944371395965
+Word: frustrated, Importance: 0.0003222980455920987
+Word: mme, Importance: 0.00022426936401385398
+Word: enjolras, Importance: 0.0001698557595124275
+Word: in, Importance: 0.00014117843228171563
+Word: victor, Importance: 0.0001064159302518433
+Word: gavroche, Importance: 0.00010078704236323069
+Word: marius, Importance: 9.77109899994635e-05
+Word: trying, Importance: 9.652961063049495e-05
+Word: several, Importance: 8.258226924433068e-05
+Word: eponine, Importance: 5.066461327010287e-05
+Word: is, Importance: 4.5875377636478116e-05
+Word: be, Importance: 4.378001630115374e-05
+Word: cosette, Importance: 1.5007945776182403e-05
+
+Q-LIME Pi Explanation:
+Word: bad, Importance: 0.0787543856923536
+Word: don, Importance: 0.0787543856923536
+Word: film, Importance: 0.0787543856923536
+Word: great, Importance: 0.0787543856923536
+Word: movie, Importance: 0.0787543856923536
+Word: time, Importance: 0.0787543856923536
+Word: just, Importance: 0.0416067323153404
+Word: like, Importance: 0.0416067323153404
+Word: people, Importance: 0.0416067323153404
+Word: watch, Importance: 0.0416067323153404
+Word: way, Importance: 0.0416067323153404
+Word: make, Importance: 0.03795412743960341
+Word: really, Importance: 0.03795412743960341
+Word: good, Importance: 0.0
+Word: story, Importance: 0.0
+Results => {'num_samples': 5000, 'max_features': 15, 'stopwords': True, 'lime_num_samples': 300, 'shots': 100, 'local_accuracy': np.float64(0.7), 'overlap_avg': np.float64(2.1)}
+
+All done! Saved results to 'results_expanded_flips.csv'.
