@@ -1,0 +1,6 @@
+*.txt
+*.vocab
+*.feat
+*.csv
+pennylane_btr/aclImdb_v1/aclImdb/README
+pennylane_btr/aclImdb_v1.tar.gz
