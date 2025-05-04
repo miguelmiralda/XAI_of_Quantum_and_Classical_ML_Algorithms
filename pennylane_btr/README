@@ -1,1 +1,3 @@
-Q LIME pi file has the last code I am working with. 
+The data for the sentiment classifier can be downloaded from: https://ai.stanford.edu/~amaas/data/sentiment/
+So far, tests have been conduxted on Iris. And Qlime and Lime using my BIC technique on a sentiment classifier.
+Working on Quantum classifier now + time series data + finishing my thesis
