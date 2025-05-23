@@ -1,3 +1,4 @@
 The data for the sentiment classifier can be downloaded from: https://ai.stanford.edu/~amaas/data/sentiment/
-So far, tests have been conduxted on Iris. And Qlime and Lime using my BIC technique on a sentiment classifier.
-Working on Quantum classifier now + time series data + finishing my thesis
+Tests have been conducted on both Iris and the IMDb dataset, using LIME Q-LIME pi. The ML models used on these are NN and QCNN.
+An optimization of the models was also conducted with both the NN and the QCNN results from the global explainer I developed. 
+The plots can also be found in the code.
