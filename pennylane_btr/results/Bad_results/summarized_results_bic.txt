@@ -1,0 +1,113 @@
+
+threshold:0.25 NO FEATURES TO EXPLAIN. trained filtered model validation acc: 0.4940. 
+-----------------------------------
+lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words,list_sanity_check: "['y_test_filt_shape', (1000,), 'X_test_filt_shape', (1000, 100)]"
+1000,0.72,0.616,24533,2,      thershold: 0.15,
+-----------------------------------
+lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_sanity_check,list_deleted_words,list_filt_words
+1000,0.72,0.649,24520,4,      threshold:0.1
+-----------------------------------
+lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_sanity_check,list_deleted_words,list_filt_words
+1000,0.72,0.679,24466,8       threshold:0.075
+-----------------------------------
+lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_sanity_check,list_deleted_words,list_filt_words
+1000,0.72,0.699,24566,18,     threshold:0.05
+-----------------------------------
+lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_sanity_check,list_deleted_words,list_filt_words
+1000,0.72,0.72,24546,34,      threshold:0.03
+-----------------------------------
+lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_sanity_check,list_deleted_words,list_filt_words
+1000,0.72,0.72,24547,57,      threshold:0.02, "['y_test_filt_shape', (1000,), 'X_test_filt_shape', (1000, 100)]"
+-----------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+5000,100,True,1000,0.72,0.717,24566,76,     threshold:0.015
+-----------------------------------
+lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+1000,0.72,0.711,24438,288,    threshold:0.01
+-----------------------------------
+lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+1000,0.72,0.725,24509,501,    threshold:0.009 'mathias': 0.0024,
+-----------------------------------
+lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+1000,0.72,0.722,24447,776,    threshold:0.008
+-----------------------------------
+lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+1000,0.72,0.716,24413,1387,   threshold:0.007
+-----------------------------------
+lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+1000,0.72,0.71,24465,2619,    threshold:0.006
+-----------------------------------
+lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+1000,0.72,0.715,24553,4679,   threshold:0.005
+-----------------------------------
+lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_sanity_check,list_deleted_words,list_filt_words
+1000,0.72,0.721,24458,8564,   threshold:0.004
+-----------------------------------
+
+
+0.722,0.716, 0.71, 0.715,
+
+776,1387,2619, 4679,
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+5000,80,True,1000,0.65,0.657,21527,1515,
+-----------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+5000,75,True,1000,0.65,0.655,20591,1734,
+-----------------------------------
+
+
+
+5000,100,True
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+threshold 0.05? (I can easily double check if I want to submit these results)
+-----------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,list_deleted_words,num_filt_words,list_filt_words
+1000,75,True,1000,0.605,0.575,8857,209
+-----------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,list_deleted_words,num_filt_words,list_filt_words
+2000,75,True,1000,0.665,0.67,12997, 1613
+-----------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+3000,75,True,1000,0.6633333333333333,0.66,16031,3854
+-----------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+4000,75,True,1000,0.645,0.64375,18532,2735,
+-----------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+5000,75,True,1000,0.65,0.655,20591,1734,
+-----------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+6000,75,True,1000,0.6341666666666667,0.6525,22582,2313
+-----------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+7000,75,True,1000,0.6471428571428571,0.6514285714285715,24141,3139,
+-----------------------------------
+
+-----------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+9000,75,True,1000,0.67,0.6627777777777778,26914,2460,
+-----------------------------------
+
+-----------------------------------
+

@@ -1,0 +1,50 @@
+
+
+
+
+
+
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_filt_words,list_filt_words
+2500,24000,True,1000,0.828,0.664,2, threshold:0.065
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_filt_words,list_filt_words
+2500,24000,True,1000,0.828,0.688,3, treshold:0.06 
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+2500,24000,True,1000,0.828,0.718,22226,8, treshold:0.05
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+2500,24000,True,1000,0.828,0.744,22226,23, treshold:0.04
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_filt_words,list_filt_words
+2500,24000,True,1000,0.828,0.782,46, treshold:0.035 
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+2500,24000,True,1000,0.828,0.784,22226,68, threshold_0.03 
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+2500,24000,True,1000,0.828,0.802,22226,149 treshold: 0.025
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_filt_words,list_filt_words
+2500,24000,True,1000,0.828,0.794,407,   treshold:0.02
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_filt_words,list_filt_words
+2500,24000,True,1000,0.828,0.8,1259, threshold:0.015 
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_deleted_words,list_filt_words
+2500,24000,True,1000,0.828,0.814,22226,3900, treshold: 0.01
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_filt_words,list_filt_words
+2500,24000,True,1000,0.828,0.822,6664, treshold: 0.0075
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_filt_words,list_filt_words
+2500,24000,True,1000,0.828,0.85,11093, treshold: 0.005
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_filt_words,list_filt_words
+2500,24000,True,1000,0.828,0.868,13455, threshold: 0.004
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_filt_words,list_filt_words
+2500,24000,True,1000,0.828,0.83,16160, treshold: 0.003
+--------------------------------------------------------------------------------------
+num_samples,max_features,stopwords,lime_num_samples,global_acc,global_acc_filtered,num_unf_words,num_filt_words,list_filt_words
+2500,24000,True,1000,0.828,0.854,3752,18702, treshold: 0.002
